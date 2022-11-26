@@ -1,3 +1,15 @@
+# Feedback App with server
+
+This app allows users to add, update and delete feedback. It uses a mock REST api with json-server.
+
+### Run
+
+```bash
+npm run dev
+```
+
+This will run JSON-server on port :5000 and React on port :3000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
